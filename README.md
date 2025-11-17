@@ -1,6 +1,6 @@
 # Nitrax-Online-Music-Streaming-App
 
-🎶 [Ihr App-Name hier]
+🎶 NITRAX
 Eine moderne Musik-Streaming-App, vollgepackt mit Features und einer ansprechenden Benutzeroberfläche, entwickelt, um technische Fähigkeiten in der mobilen App-Entwicklung zu demonstrieren.
 
 🌟 Über das Projekt (Projektziel)
