@@ -6,6 +6,13 @@ Eine moderne Musik-Streaming-App, vollgepackt mit Features und einer ansprechend
 🌟 Über das Projekt (Projektziel)
 Dieses Projekt dient als zentrales Werkstück meines Portfolios und wurde speziell für Bewerbungen um Ausbildungsplätze in Deutschland entwickelt. Das Hauptziel war es, meine Kompetenzen in der Erstellung einer vollständigen mobilen Anwendung zu demonstrieren – vom UI/UX-Design über die Verwaltung von Online-Daten und Caching bis hin zu Hintergrunddiensten.
 
+Videovorschau:
+
+https://github.com/user-attachments/assets/7862ca5c-98d8-4957-b3a8-abe1d9af6fb0
+
+
+Screenshots:
+
 ✨ Kernfunktionen (Features)
 Die Anwendung implementiert eine Reihe moderner Funktionen, die man von führenden Streaming-Diensten erwartet:
 
