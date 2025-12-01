@@ -12,6 +12,7 @@ Videovorschau: ( Erhöhen Sie bitte die Lautstärke )
 
 https://github.com/user-attachments/assets/7862ca5c-98d8-4957-b3a8-abe1d9af6fb0
 
+
 Screenshots:
 
 <table align="center" style="width:100%; border:0;">
@@ -60,6 +61,7 @@ Screenshots:
 </table>
 
 
+
 ✨ Kernfunktionen (Features)
 
 Die Anwendung implementiert eine Reihe moderner Funktionen, die man von führenden Streaming-Diensten erwartet:
@@ -88,6 +90,8 @@ Zweisprachigkeit: Die gesamte Benutzeroberfläche ist vollständig auf Deutsch u
 
 🚀 Erweiterte Funktionen
 
+Nahtlose Wiedergabe-Fortsetzung: Automatische Speicherung des letzten Titels und der exakten Abspielposition für ein unterbrechungsfreies Weiterhören beim App-Neustart.
+
 Benachrichtigungs-Steuerung: Vollständige Wiedergabesteuerung (Play/Pause/Nächster/Vorheriger Titel) über die Benachrichtigungsleiste und den Sperrbildschirm.
 
 Canvas-Modus (Spotify-Stil): Zeigt ein kurzes, ansprechendes Video-Loop anstelle eines statischen Covers im Wiedergabebildschirm an, um ein intensiveres visuelles Erlebnis zu schaffen.
@@ -95,8 +99,6 @@ Canvas-Modus (Spotify-Stil): Zeigt ein kurzes, ansprechendes Video-Loop anstelle
 Favoriten: Möglichkeit, Lieblingssongs zu speichern und zu verwalten.
 
 Leistungsstarke Suche: Umfassende Suchfunktion für Titel, Alben und Künstler.
-
-Dynamischer Video-Canvas: Integration von bewegten Video-Hintergründen (Loops) für ein visuell immersives Streaming-Erlebnis.
 
 Synchronisierte Live-Lyrics: Echtzeit-Anzeige von Songtexten mit präzisem Timing und automatischer Scroll-Funktion.
 
