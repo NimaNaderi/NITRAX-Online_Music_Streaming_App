@@ -10,6 +10,7 @@ Videovorschau: ( Erhöhen Sie bitte die Lautstärke )
 
 https://github.com/user-attachments/assets/7862ca5c-98d8-4957-b3a8-abe1d9af6fb0
 
+Screenshots:
 
 <table align="center" style="width:100%; border:0;">
   <tr>
@@ -26,7 +27,7 @@ https://github.com/user-attachments/assets/7862ca5c-98d8-4957-b3a8-abe1d9af6fb0
       <img src="https://github.com/user-attachments/assets/0d2aadb9-64b0-47a4-821f-9db42118cb7a" width="205px" alt="Screen 4">
     </td>
     <td align="center" style="padding:5px;">
-      <img src="https://github.com/user-attachments/assets/d69a9bac-104b-4e43-9b80-e8f4f89feb94" width="205px" alt="Screen 5">
+      <img src="https://github.com/user-attachments/assets/9068380f-b046-4dad-9c4a-280fb85b262f" width="205px" alt="Screen 13">
     </td>
   </tr>
   <tr>
@@ -53,18 +54,9 @@ https://github.com/user-attachments/assets/7862ca5c-98d8-4957-b3a8-abe1d9af6fb0
     <td align="center" style="padding:5px;">
       <img src="https://github.com/user-attachments/assets/71f4e988-9418-4b46-8181-17e9b2b39b56" width="205px" alt="Screen 12">
     </td>
-    <td align="center" style="padding:5px;">
-      <img src="https://github.com/user-attachments/assets/9068380f-b046-4dad-9c4a-280fb85b262f" width="205px" alt="Screen 13">
-    </td>
-    <td align="center" style="padding:5px;">
-      </td>
-    <td align="center" style="padding:5px;">
-      </td>
   </tr>
 </table>
 
-
-Screenshots:
 
 ✨ Kernfunktionen (Features)
 Die Anwendung implementiert eine Reihe moderner Funktionen, die man von führenden Streaming-Diensten erwartet:
@@ -97,3 +89,16 @@ Canvas-Modus (Spotify-Stil): Zeigt ein kurzes, ansprechendes Video-Loop anstelle
 Favoriten: Möglichkeit, Lieblingssongs zu speichern und zu verwalten.
 
 Leistungsstarke Suche: Umfassende Suchfunktion für Titel, Alben und Künstler.
+
+Dynamischer Video-Canvas: Integration von bewegten Video-Hintergründen (Loops) für ein visuell immersives Streaming-Erlebnis.
+
+Synchronisierte Live-Lyrics: Echtzeit-Anzeige von Songtexten mit präzisem Timing und automatischer Scroll-Funktion.
+
+
+## ⚖️ Rechtlicher Hinweis zu den Medieninhalten (Copyright Disclaimer)
+
+Dieses Projekt wurde zu rein privaten Bildungszwecken entwickelt, um meine Fähigkeiten in der Full-Stack-Entwicklung zu demonstrieren.
+
+Um die technischen Funktionen der App – insbesondere **Download-Management**, **Video-Canvas** und **synchronisierte Lyrics** – vollumfänglich und rechtssicher präsentieren zu können, habe ich mich bewusst für die Integration von Musiktiteln des Künstlers **NEFFEX** entschieden. Diese Titel sind "Royalty-Free" (lizenzfrei) und für die Nutzung durch Content Creator freigegeben.
+
+Diese Entscheidung ermöglicht es mir, alle Features der App (inklusive der Offline-Speicherung) live zu demonstrieren, unter strikter Einhaltung des deutschen Urheberrechts.
