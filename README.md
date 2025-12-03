@@ -1,5 +1,8 @@
 # Nitrax-Online-Music-Streaming-App
 
+> **Hinweis:** Dieses Projekt wurde ursprünglich vom **[Mai bis Juli 2025]** entwickelt und nun für Portfolio-Zwecke auf GitHub veröffentlicht.
+
+
 🎶 NITRAX
 
 Eine moderne Musik-Streaming-App, vollgepackt mit Features und einer ansprechenden Benutzeroberfläche, entwickelt, um technische Fähigkeiten in der mobilen App-Entwicklung zu demonstrieren.
